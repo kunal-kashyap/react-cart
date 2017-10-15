@@ -14,9 +14,8 @@ class Cart extends Component {
         }];
         this.state = {
             items: this.arr,
-            total: 0
+            total: 600
         }
-
     }
 
     handleKeyPress = (e) => {

@@ -64,9 +64,11 @@
 .quantity-change span{
     display: inline-block;
     margin:0px 10px;
+    cursor: pointer;
 }
 
 .remove-item{
     color:red;
     font-size: 20px;
+    cursor: pointer;
 }
